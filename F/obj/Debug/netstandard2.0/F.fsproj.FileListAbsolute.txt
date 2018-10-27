@@ -1,0 +1,7 @@
+C:\Workspace\WFENG\A\F\bin\Debug\netstandard2.0\F.deps.json
+C:\Workspace\WFENG\A\F\bin\Debug\netstandard2.0\F.dll
+C:\Workspace\WFENG\A\F\obj\Debug\netstandard2.0\F.fsprojAssemblyReference.cache
+C:\Workspace\WFENG\A\F\bin\Debug\netstandard2.0\F.pdb
+C:\Workspace\WFENG\A\F\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Workspace\WFENG\A\F\obj\Debug\netstandard2.0\F.dll
+C:\Workspace\WFENG\A\F\obj\Debug\netstandard2.0\F.pdb
